@@ -10279,6 +10279,31 @@ body {
   margin-bottom: 5rem;
 }
 
+.research_interests {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, #6c757d 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+}
+.research_interests p {
+  margin-bottom: 5rem;
+}
+
+.CV {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, #6c757d 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+}
+.CV p {
+  margin-bottom: 5rem;
+}
+
+.ravelers_diary {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, #6c757d 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+}
+.ravelers_diary p {
+  margin-bottom: 5rem;
+}
+
+
 .projects-section {
   padding: 10rem 0;
 }
